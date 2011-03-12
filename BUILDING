@@ -1,0 +1,10 @@
+##########################
+## Building SuplChecker ##
+##########################
+
+in src/ folder:
+    qmake SuplCheckerMobile.pro
+    make (unix) or nmake (Windows)
+
+install SIS package on mobile phone
+copy data folder to e:/data/suplchecker (memory card)
